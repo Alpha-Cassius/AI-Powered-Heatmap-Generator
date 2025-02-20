@@ -47,14 +47,6 @@ python main.py
 
 ---
 
-## 🌟 Screenshots
-### **Main Interface**
-![App UI](https://via.placeholder.com/800x400?text=Main+Interface)
-
-### **Generated Heatmap**
-![Heatmap](https://via.placeholder.com/800x400?text=Sample+Heatmap)
-
----
 
 ## 💡 API Configuration
 This project requires **Google Gemini AI API**. Set up your API key:
