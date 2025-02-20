@@ -71,7 +71,7 @@ Feel free to **fork** this repository and submit a **pull request** with enhance
 
 ## 👨‍💻 Author
 **Vaibhav Pandey**  
-GitHub: [@your-username](https://github.com/Alpha-Cassius)
+GitHub: [@Alpha-Cassius](https://github.com/Alpha-Cassius)
 
 ---
 
