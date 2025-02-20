@@ -1,0 +1,24 @@
+-- Create a sample database
+CREATE DATABASE IF NOT EXISTS heatmap_db;
+USE heatmap_db;
+
+-- Create a sample table
+CREATE TABLE IF NOT EXISTS student_scores (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT,
+    math INT,
+    science INT,
+    english INT
+);
+
+-- Insert sample data
+INSERT INTO student_scores (name, age, math, science, english) VALUES
+('Alice', 14, 85, 78, 92),
+('Bob', 15, 76, 82, 88),
+('Charlie', 14, 90, 85, 85),
+('David', 15, 70, 75, 80),
+('Eve', 14, 88, 90, 85);
+
+-- Query to fetch data for heatmap
+SELECT * FROM student_scores;
