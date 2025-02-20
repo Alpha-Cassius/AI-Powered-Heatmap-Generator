@@ -1,0 +1,6 @@
+customtkinter
+pandas
+seaborn
+matplotlib
+mysql-connector-python
+google-generativeai
